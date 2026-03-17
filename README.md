@@ -36,7 +36,8 @@ This is my **personal freelance business website**, designed to showcase my work
 ## 🖼 Screenshots / Project Previews
 <img width="2506" height="1223" alt="jmzweb" src="https://github.com/user-attachments/assets/66ad3731-8627-40bb-a099-427f6a230352" />
 <img width="2543" height="1255" alt="jmzweb2" src="https://github.com/user-attachments/assets/15018723-ac0c-4f49-bff4-3a1fa230db5a" />
-<p align="center"><img width="481" height="1302" alt="jmzweb3" src="https://github.com/user-attachments/assets/1575b768-6b72-4723-ade2-fe7b2f78e494" />
+<p align="center"><img width="400" height="1000" alt="jmzweb3" src="https://github.com/user-attachments/assets/ca221e08-8005-4e3a-b698-b808c7c87dd0" />
+
 </p>
 
 
