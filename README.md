@@ -34,13 +34,13 @@ This is my **personal freelance business website**, designed to showcase my work
 ---
 
 ## 🖼 Screenshots / Project Previews
-
-<img width="1500" height="800" alt="jmzweb" src="https://github.com/user-attachments/assets/f9b9fd0e-036b-4361-a546-f82a3e045974" />
-<img width="1500" height="800" alt="jmzweb2" src="https://github.com/user-attachments/assets/097921df-2785-4bee-8326-9a350a915faa" />
-
-<p align="center">
-  <img width="340" height="800" alt="jmzweb3" src="https://github.com/user-attachments/assets/a8f08082-e433-4826-bdec-06243eb3cc1c" />
+<img width="2506" height="1223" alt="jmzweb" src="https://github.com/user-attachments/assets/66ad3731-8627-40bb-a099-427f6a230352" />
+<img width="2543" height="1255" alt="jmzweb2" src="https://github.com/user-attachments/assets/15018723-ac0c-4f49-bff4-3a1fa230db5a" />
+<p align="center"><img width="481" height="1302" alt="jmzweb3" src="https://github.com/user-attachments/assets/1575b768-6b72-4723-ade2-fe7b2f78e494" />
 </p>
+
+
+
 
 > *Note: Images folder is ignored in this repo to reduce size.*
 
