@@ -57,5 +57,5 @@ This is my **personal freelance business website**, designed to showcase my work
 
 ---
 
-## 📂 Repository Structure
+
 
